@@ -37,14 +37,9 @@ print("Hello World")
 ```
 
 <p align="center">
-  <img src="Screenshot_20220214_040257.png" width="550">
+  <img src="Screenshot_20220214_040257.png" width="800">
 </p>
 
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
