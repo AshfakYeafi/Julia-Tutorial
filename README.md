@@ -36,6 +36,12 @@ print("Hello World")
 
 ```
 
+<p align="center">
+  <img src="Screenshot_20220214_040257.png" width="350" title="hover text">
+  <img src="Screenshot_20220214_040257.png" width="350" alt="accessibility text">
+</p>
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
