@@ -37,8 +37,7 @@ print("Hello World")
 ```
 
 <p align="center">
-  <img src="Screenshot_20220214_040257.png" width="350" title="hover text">
-  <img src="Screenshot_20220214_040257.png" width="350" alt="accessibility text">
+  <img src="Screenshot_20220214_040257.png" width="550">
 </p>
 
 
